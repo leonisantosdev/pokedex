@@ -5,7 +5,8 @@ resultado, um simples projeto que constituiu em um consumo de API Pokedex. Foi u
 Projeto totalmente responsivo para celulares de tamanho min de 320px até telas maiores que 1800px 
 
 Tecnologias usadas: Html, Css e Javascript!
-
+Responsivo? Sim
+Telas: Mobile, Tablets e Desktops
 Tempo de produção: 1.5d ( um dia e meio )
 Espero que gostem!
 
