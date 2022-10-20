@@ -7,6 +7,7 @@ Projeto totalmente responsivo para celulares de tamanho min de 320px até telas 
 Tecnologias usadas: Html, Css e Javascript!
 Responsivo? Sim
 Telas: Mobile, Tablets e Desktops
+
 Tempo de produção: 1.5d ( um dia e meio )
 Espero que gostem!
 
