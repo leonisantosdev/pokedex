@@ -4,7 +4,7 @@
 resultado, um simples projeto que constituiu em um consumo de API Pokedex. Foi usado algumas funções especificas como match, filter e map. 
 Projeto totalmente responsivo para celulares de tamanho min de 320px até telas maiores que 1800px</p>
 
-Tecnologias usadas: Html, Css e Javascript! </br>
+Tecnologias usadas: HTML, CSS e JAVASCRIPT! </br>
 Responsivo? Sim </br>
 Telas: Mobile, Tablets e Desktops
 
@@ -17,3 +17,4 @@ Espero que gostem!
 <h2>JAVASCRIPT</h2>
 <img src="https://user-images.githubusercontent.com/110071892/196892192-d4421ba4-24d2-43be-97d0-e477813dec82.png" />
 
+Obrigado por visualizar !
