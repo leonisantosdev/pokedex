@@ -1,0 +1,43 @@
+
+.cards {
+    border-radius: .5rem;
+    height: 368px; 
+    width: 364px;
+    box-shadow: 1px 1px 5px rgb(112, 63, 6);
+    background-color: white;
+    transition: transform 0.5s;
+
+
+}
+
+.cards:hover {
+    transform: scale(1.03);
+    border: 3px solid rgb(3, 172, 0);
+}
+
+.imgs-cards {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 65%;
+}
+
+.imgs-cards img {
+    width: 13rem;
+}
+
+.title-cards {
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.title-cards p {
+    font-size: 2.5rem;
+    font-family: 'Silkscreen', cursive;
+    font-weight: 600;
+    text-align: center;
+    text-transform: capitalize;
+}
+

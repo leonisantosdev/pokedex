@@ -1,0 +1,14 @@
+@media screen and (max-width: 760px) {
+    .footer-icons p {
+        font-size: 2rem;
+    }
+
+    .footer-icons ul li a img {
+        width: 4rem;
+    }
+
+    .menu-search input {
+        width: 80%;
+    }
+
+}
