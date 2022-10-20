@@ -1,8 +1,8 @@
 # POKEDEX
 
-Projeto de uma Pokedex, que consiste básicamente em uma lista de pokemons onde o usuário poderá interagir pesquisando pelo nome exato ou mais próximo assim trazendo o 
+  <p>Projeto de uma Pokedex, que consiste básicamente em uma lista de pokemons onde o usuário poderá interagir pesquisando pelo nome exato ou mais próximo assim trazendo o 
 resultado, um simples projeto que constituiu em um consumo de API Pokedex. Foi usado algumas funções especificas como match, filter e map. 
-Projeto totalmente responsivo para celulares de tamanho min de 320px até telas maiores que 1800px 
+Projeto totalmente responsivo para celulares de tamanho min de 320px até telas maiores que 1800px</p>
 
 Tecnologias usadas: Html, Css e Javascript! </br>
 Responsivo? Sim </br>
