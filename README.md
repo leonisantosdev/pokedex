@@ -8,7 +8,7 @@ Tecnologias usadas: HTML, CSS e JAVASCRIPT! </br>
 Responsivo? Sim  </br>
 Telas: Mobile, Tablets e Desktops </br>
 
-OBS: Lembrando que caso queira mais pokemons, basta apenas ir na URL da API no arquivo onde está o script e trocar de 'limit="30"' para 'limi="999"'
+OBS: Lembrando que caso queira mais pokemons, basta apenas ir na URL da API no arquivo onde está o script e trocar de limit=30 para limi=999
 
 Tempo de produção: 1.5d ( um dia e meio )
 Espero que gostem!
