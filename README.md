@@ -1,4 +1,4 @@
-# POKEDEX
+# 🔴 POKEDEX
 
 ⚙️ <p>Projeto de uma Pokedex, que consiste básicamente em uma lista de pokemons onde o usuário poderá interagir pesquisando pelo nome exato ou mais próximo assim trazendo o 
 resultado, um simples projeto que constituiu em um consumo de API Pokedex. Foi usado algumas funções especificas como match, filter e map. 
