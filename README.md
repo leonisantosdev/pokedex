@@ -1,4 +1,4 @@
-<p align="center"><img src="pikachu-logo.png" width="150px"></p>
+<p align="center"><img src="pokedex.png" width="150px"></p>
 
 <div align="center">
 	<h3 align="center">Pokedex</h3>
