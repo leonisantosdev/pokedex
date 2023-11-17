@@ -1,24 +1,80 @@
-# 🔴 POKEDEX
+<p align="center"><img src="#" width="150px"></p>
 
-⚙️ <p>Projeto de uma Pokedex, que consiste básicamente em uma lista de pokemons onde o usuário poderá interagir pesquisando pelo nome exato ou mais próximo assim trazendo o 
-resultado, um simples projeto que constituiu em um consumo de API Pokedex. Foi usado algumas funções especificas como match, filter e map. 
-Projeto totalmente responsivo para celulares de tamanho min de 320px até telas maiores que 1800px</p>
+<div align="center">
+	<h3 align="center">Login Page</h3>
+	<p align="center">Projeto de uma página responsiva de uma Pokedex, onde o usuário poderá pesquisar o nome do pokemon e será retornado para ele o valor exato no qual foi pesquisado ou o mais próximo possivel.</p>
+</div>
+<h3  align="center">
+		✅ Status: concluído ✅
+</h3>
+<div align="center">
+<a href="#">Acesse a aplicação clicando aqui !</a>
+</div>
 
-⚙️ Tecnologias usadas: HTML, CSS e JAVASCRIPT! </br>
-💻 Telas: Mobile, Tablets e Desktops </br>
+## 🗒️ Conteúdo
 
-✏️ OBS: Lembrando que caso queira mais pokemons, basta apenas ir na URL da API no arquivo onde está o script e trocar de limit=30 para limi=999
+- [Sobre](#-Sobre)
+- [Demonstração](#-Demonstração)
+- [Tecnologias](#-tecnologias)
+- [Pré-requisitos](#-Pré-requisitos)
+- [Como rodar?](#-Rodando-a-aplicação)
+- [Autor](#-Autor)
 
-⌛️ Tempo de produção: 1.5d ( um dia e meio )
-   Espero que gostem!
+## 📖 Sobre
+Projeto desenvolvido através de idéias e estudos feitos pessoalmente. Um projeto que consiste em uma Pokedex consumindo uma API de pokemons, o projeto é totalmente responsivo e utilizado apenas com HTML, CSS & JavaScript.
 
-   <h2>PROJETO</h2>
-<img src="https://user-images.githubusercontent.com/110071892/196893062-e0853260-9375-4b0e-991d-b3df62eb5b91.png" />
+## 📺 Demonstração
 
-   <h2>HTML</h2>
-<img src="https://user-images.githubusercontent.com/110071892/197019612-37bc2ea2-215f-4c96-86ef-b5f649576919.png" />
+<p align="center">
+  <img alt="Demonstração" src="#" width="600">
+  <img alt="Demonstração" src="#" height="340">
+</p>
 
-   <h2>JAVASCRIPT</h2>
-<img src="https://user-images.githubusercontent.com/110071892/196892192-d4421ba4-24d2-43be-97d0-e477813dec82.png" />
+## 🛠 Tecnologias
 
-❤️ Obrigado por visualizar ! ❤️
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+## ⚠️ Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+
+- [VSCode](https://code.visualstudio.com/)
+- [Git](https://git-scm.com)
+- [NPM](https://www.npmjs.com)
+
+
+## 🔥 Rodando a aplicação
+
+```bash
+# Baixe este repositório
+
+# Acesse a pasta do projeto no vscode:
+
+# Execute o arquivo index.html com o LiveServer pelo vscode
+# ou abra o arquivo index.html no seu navegador
+
+# A aplicação iniciará localmente na sua maquina !
+```
+
+<!-- AUTOR -->
+
+## 🤓 Autor
+
+<div align="center" >
+<a href="https://www.linkedin.com/in/leonisantos/">
+ <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
+ <br />
+ <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
+</a>
+ <br />
+ <br />
+Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
+
+</div>
+
+## 📕License
+
+This project is under the [MIT](./LICENSE).
