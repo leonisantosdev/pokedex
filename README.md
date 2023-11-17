@@ -1,7 +1,7 @@
 <p align="center"><img src="#" width="150px"></p>
 
 <div align="center">
-	<h3 align="center">Login Page</h3>
+	<h3 align="center">Pokedex</h3>
 	<p align="center">Projeto de uma página responsiva de uma Pokedex, onde o usuário poderá pesquisar o nome do pokemon e será retornado para ele o valor exato no qual foi pesquisado ou o mais próximo possivel.</p>
 </div>
 <h3  align="center">
