@@ -27,7 +27,7 @@ Projeto desenvolvido através de idéias e estudos feitos pessoalmente. Um proje
 
 <p align="center">
   <img alt="Demonstração" src="exemplar2.gif" width="600">
-  <img alt="Demonstração" src="exemplar.gif" width="340">
+  <img alt="Demonstração" src="exemplar.gif" width="340" height="340">
 </p>
 
 ## 🛠 Tecnologias
