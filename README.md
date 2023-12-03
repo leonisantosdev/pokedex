@@ -11,7 +11,7 @@
 <a href="#">Access the application by clicking here!</a>
 </div>
 
-## 🗒️ Conteúdo
+## 🗒️ Content
 
 - [About](#-Sobre)
 - [Demonstration](#-Demonstração)
@@ -20,10 +20,10 @@
 - [How to run](#-Rodando-a-aplicação)
 - [Author](#-Autor)
 
-## 📖 Sobre
+## 📖 About
 Project developed through personal ideas and studies. A project consisting of a Pokedex consuming a Pokemon API, it is fully responsive and built solely with HTML, CSS, & JavaScript.
 
-## 📺 Demonstração
+## 📺 Demonstration
 
 <p align="center">
   <img alt="Demonstração" src="exemplar2.gif" width="900">
