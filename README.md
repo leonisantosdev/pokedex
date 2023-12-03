@@ -2,26 +2,26 @@
 
 <div align="center">
 	<h3 align="center">Pokedex</h3>
-	<p align="center">Projeto de uma página responsiva de uma Pokedex, onde o usuário poderá pesquisar o nome do pokemon e será retornado para ele o valor exato no qual foi pesquisado ou o mais próximo possivel.</p>
+	<p align="center">Project of a responsive single-page Pokedex, where the user can search for the name of the Pokémon, and the exact or closest matching value will be returned to them.</p>
 </div>
 <h3  align="center">
-		✅ Status: concluído ✅
+		✅ Status: Completed ✅
 </h3>
 <div align="center">
-<a href="#">Acesse a aplicação clicando aqui !</a>
+<a href="#">Access the application by clicking here!</a>
 </div>
 
 ## 🗒️ Conteúdo
 
-- [Sobre](#-Sobre)
-- [Demonstração](#-Demonstração)
-- [Tecnologias](#-tecnologias)
-- [Pré-requisitos](#-Pré-requisitos)
-- [Como rodar?](#-Rodando-a-aplicação)
-- [Autor](#-Autor)
+- [About](#-Sobre)
+- [Demonstration](#-Demonstração)
+- [Technologies](#-tecnologias)
+- [Prerequisites](#-Pré-requisitos)
+- [How to run](#-Rodando-a-aplicação)
+- [Author](#-Autor)
 
 ## 📖 Sobre
-Projeto desenvolvido através de idéias e estudos feitos pessoalmente. Um projeto que consiste em uma Pokedex consumindo uma API de pokemons, o projeto é totalmente responsivo e utilizado apenas com HTML, CSS & JavaScript.
+Project developed through personal ideas and studies. A project consisting of a Pokedex consuming a Pokemon API, it is fully responsive and built solely with HTML, CSS, & JavaScript.
 
 ## 📺 Demonstração
 
@@ -29,40 +29,40 @@ Projeto desenvolvido através de idéias e estudos feitos pessoalmente. Um proje
   <img alt="Demonstração" src="exemplar2.gif" width="900">
 </p>
 
-## 🛠 Tecnologias
+## 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
   - [Display Flex](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## ⚠️ Pré-requisitos
+## ⚠️ Prerequisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Before you begin, you will need to have the following tools installed on your machine.:
 
 - [VSCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com)
 - [NPM](https://www.npmjs.com)
 
 
-## 🔥 Rodando a aplicação
+## 🔥 Running the application
 
 ```bash
-# Baixe este repositório
+# Download this repository
 
-# Acesse a pasta do projeto no vscode:
+# Navigate to the project folder in vscode:
 
-# Execute o arquivo index.html com o LiveServer pelo vscode
-# ou abra o arquivo index.html no seu navegador
+# Run the index.html file with LiveServer through vscode
+# or open the index.html file in your browser
 
-# A aplicação iniciará localmente na sua maquina !
+# The application will start locally on your machine!
 ```
 
 <!-- AUTOR -->
 
-## 🤓 Autor
+## 🤓 Author
 
 <div align="center" >
 <a href="https://www.linkedin.com/in/leonisantos/">
@@ -72,7 +72,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 </a>
  <br />
  <br />
-Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
+Made with ❤️ by Leôni Santos 👋🏽 Get in touch!
 
 </div>
 
