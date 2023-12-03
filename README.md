@@ -13,12 +13,12 @@
 
 ## 🗒️ Content
 
-- [About](#-Sobre)
-- [Demonstration](#-Demonstração)
-- [Technologies](#-tecnologias)
-- [Prerequisites](#-Pré-requisitos)
-- [How to run](#-Rodando-a-aplicação)
-- [Author](#-Autor)
+- [About](#-About)
+- [Demonstration](#-Demonstration)
+- [Technologies](#-Technologies)
+- [Prerequisites](#-Pre-requisites)
+- [How to run](#-Running-the-application)
+- [Author](#-Author)
 
 ## 📖 About
 Project developed through personal ideas and studies. A project consisting of a Pokedex consuming a Pokemon API, it is fully responsive and built solely with HTML, CSS, & JavaScript.
@@ -38,7 +38,7 @@ The following tools were used in the construction of the project:
   - [Display Flex](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## ⚠️ Prerequisites
+## ⚠️ Pre-requisites
 
 Before you begin, you will need to have the following tools installed on your machine.:
 
