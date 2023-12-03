@@ -16,7 +16,7 @@
 - [About](#-About)
 - [Demonstration](#-Demonstration)
 - [Technologies](#-Technologies)
-- [Prerequisites](#-Pre-requisites)
+- [Pre-requisites](#-Pre-requisites)
 - [How to run](#-Running-the-application)
 - [Author](#-Author)
 
