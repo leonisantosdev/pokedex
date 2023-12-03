@@ -16,7 +16,7 @@
 - [About](#-About)
 - [Demonstration](#-Demonstration)
 - [Technologies](#-Technologies)
-- [Pre-requisites](#-Pre-requisites)
+- [Pre-requisites](#-Prerequisites)
 - [How to run](#-Running-the-application)
 - [Author](#-Author)
 
@@ -38,7 +38,7 @@ The following tools were used in the construction of the project:
   - [Display Flex](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## ⚠️ Pre-requisites
+## ⚠️ Prerequisites
 
 Before you begin, you will need to have the following tools installed on your machine.:
 
