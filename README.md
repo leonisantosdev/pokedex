@@ -13,7 +13,7 @@
 <a href="#">Acesse a aplicação clicando aqui!</a>
 </div>
 
-## 🗒️ Content
+## 🗒️ Conteúdo
 
 - [Sobre](#-Sobre)
 - [Tecnologias](#-Tecnologias)
@@ -41,7 +41,7 @@ Antes de começar, você precisará ter as seguintes ferramentas instaladas em s
 - [NPM](https://www.npmjs.com)
 
 
-## 🔥 Running the application
+## 🔥 Rodando a aplicação
 
 ```bash
 # Baixe este repositório.
