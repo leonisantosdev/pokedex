@@ -1,46 +1,40 @@
-<p align="center"><img src="pokedex.png" width="150px"></p>
+<p align="center">
+  <img alt="Demonstração" src="exemplar2.gif" width="950">
+</p>
 
 <div align="center">
-	<h3 align="center">Pokedex</h3>
-	<p align="center">Project of a responsive single-page Pokedex, where the user can search for the name of the Pokémon, and the exact or closest matching value will be returned to them.</p>
+	<h1 align="center">Pokedex</h1>
+	<p align="center">Projeto de uma Pokedex responsiva de uma única página, onde o usuário pode pesquisar pelo nome do Pokémon, e o valor exato ou o mais próximo será retornado para eles.</p>
 </div>
 <h3  align="center">
-		✅ Status: Completed ✅
+		✅ Status: Completo ✅
 </h3>
 <div align="center">
-<a href="#">Access the application by clicking here!</a>
+<a href="#">Acesse a aplicação clicando aqui!</a>
 </div>
 
 ## 🗒️ Content
 
-- [About](#-About)
-- [Demonstration](#-Demonstration)
-- [Technologies](#-Technologies)
-- [Pre-requisites](#-Pre-requisites)
-- [How to run](#-Running-the-application)
-- [Author](#-Author)
+- [Sobre](#-Sobre)
+- [Tecnologias](#-Tecnologias)
+- [Pre-requisitos](#-Pre-requisitos)
+- [Como rodar?](#-Rodando-a-aplicação)
+- [Autor](#-Autor)
 
-## 📖 About
-Project developed through personal ideas and studies. A project consisting of a Pokedex consuming a Pokemon API, it is fully responsive and built solely with HTML, CSS, & JavaScript.
+## 📖 Sobre
+Projeto desenvolvido através de ideias pessoais e estudos. Um projeto composto por uma Pokedex que consome uma API de Pokémon, é totalmente responsivo e construído exclusivamente com HTML, CSS e JavaScript.
 
-## 📺 Demonstration
+## 🛠 Tecnologias
 
-<p align="center">
-  <img alt="Demonstração" src="exemplar2.gif" width="900">
-</p>
+As seguintes ferramentas foram utilizadas na construção do projeto:
 
-## 🛠 Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-The following tools were used in the construction of the project:
+## ⚠️ Pre-requisitos
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-  - [Display Flex](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-
-## ⚠️ Pre-requisites
-
-Before you begin, you will need to have the following tools installed on your machine.:
+Antes de começar, você precisará ter as seguintes ferramentas instaladas em sua máquina:
 
 - [VSCode](https://code.visualstudio.com/)
 - [Git](https://git-scm.com)
@@ -50,32 +44,30 @@ Before you begin, you will need to have the following tools installed on your ma
 ## 🔥 Running the application
 
 ```bash
-# Download this repository
+# Baixe este repositório.
 
-# Navigate to the project folder in vscode:
+# Navegue até a pasta do projeto no VSCode:
 
-# Run the index.html file with LiveServer through vscode
-# or open the index.html file in your browser
-
-# The application will start locally on your machine!
+# Execute o arquivo index.html com o LiveServer através do VSCode
+# ou
+# Abra o arquivo index.html no seu navegador
+# A aplicação iniciará localmente em sua máquina!
 ```
 
-<!-- AUTOR -->
-
-## 🤓 Author
+## 🤓 Autor
 
 <div align="center" >
-<a href="https://www.linkedin.com/in/leonisantos/">
- <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="200px;" alt="perfil"/>
+<a href="https://www.linkedin.com/in/leonisantosfernandes/">
+ <img src="https://avatars.githubusercontent.com/u/110071892?v=4" width="160px;" alt="perfil"/>
  <br />
- <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantos/" title="Linkedin">🚀
+ <b>Leôni Santos</b></a> <a href="https://www.linkedin.com/in/leonisantosfernandes/" title="Linkedin">🚀
 </a>
  <br />
  <br />
-Made with ❤️ by Leôni Santos 👋🏽 Get in touch!
+Feito com ❤️ por Leôni Santos 👋🏽 Entre em contato!
 
 </div>
 
-## 📕License
+## 📕 Licença
 
-This project is under the [MIT](./LICENSE).
+Este projeto está sob a [MIT](./LICENSE).
